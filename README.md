@@ -1,2 +1,2 @@
 # cinematch
-12th grafe finnale project
+12th grade final project
